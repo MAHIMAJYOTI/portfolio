@@ -43,7 +43,7 @@ Every bullet on the **general resume** maps to a short answer you can learn in ~
 
 ---
 
-## adhaarzones (15 min)
+## UIDAI District Stress Analytics (15 min)
 
 **ETL on 4.8M rows**  
 → Raw CSV → handle missing values → aggregate by district/time → build features → train Random Forest → save model file. `run_pipeline.py` does it all.
@@ -105,7 +105,7 @@ Every bullet on the **general resume** maps to a short answer you can learn in ~
 | CGPA | 9.18 |
 | Class X / XII | 95.4% / 94.6% |
 | LeetCode | 150+ (leetcode.com/u/Mahima4) |
-| adhaarzones scale | ~4.8M rows |
+| UIDAI District Stress Analytics scale | ~4.8M rows |
 | ROADGAURD-X accuracy | 99.6% (synthetic test set) |
 | ROADGAURD-X features | 9 |
 | Stress ratio importance | ~70% |
@@ -118,7 +118,7 @@ Every bullet on the **general resume** maps to a short answer you can learn in ~
 |------|------|
 | 30 min | Read this doc + skim each project's README on GitHub |
 | 30 min | Demo GameNexus live + ROADGAURD-X demo or CLI |
-| 20 min | Trace adhaarzones pipeline file |
+| 20 min | Trace UIDAI District Stress Analytics pipeline (`adhaarzones` repo) |
 | 15 min | Draw CloudCollab architecture on paper |
 | 15 min | Practice 60-sec intro: "I'm Mahima, final year VIT, I build full-stack apps and ML pipelines…" |
 | 10 min | Re-read resume; every line should feel familiar |

@@ -15,13 +15,15 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Mahima Jyoti | Full-Stack Engineer & ML Engineer",
   description:
-    "Portfolio of Mahima Jyoti — Final-year B.Tech CSE (AI & ML) at VIT Bhopal. Full-stack engineer building GameNexus, adhaarzones, ROADGAURD-X, and CloudCollab.",
+    "Portfolio of Mahima Jyoti — Final-year B.Tech CSE (AI & ML) at VIT Bhopal (CGPA 9.20). Building CloudCollab, GameNexus, and RoadGuard-X.",
   keywords: [
     "Mahima Jyoti",
     "Full-Stack Engineer",
     "ML Engineer",
     "VIT Bhopal",
+    "CloudCollab",
     "GameNexus",
+    "RoadGuard-X",
     "Portfolio",
   ],
   authors: [{ name: "Mahima Jyoti" }],
